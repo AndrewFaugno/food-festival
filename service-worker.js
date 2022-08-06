@@ -13,7 +13,7 @@ const FILES_TO_CACHE = [
 ];
 
 const APP_PREFIX = "FoodFest-";
-const VERSION = "version_01";
+const VERSION = "version_02";
 const CACHE_NAME = APP_PREFIX + VERSION;
 
 self.addEventListener("install", function (e) {
